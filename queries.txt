@@ -1,0 +1,9 @@
+/listCountries
+/diseaseFrequency FLU-2018 1-1-1950 2-6-2020
+/diseaseFrequency FLU-2018 1-1-1950 2-6-2020 Greece
+/topk-AgeRanges 3 USA EVD 1-1-1950 2-6-2020
+/searchPatientRecord 19408
+/numPatientAdmissions EVD 1-1-1920 4-4-2020
+/numPatientAdmissions EVD 1-1-1920 4-4-2020 Germany
+/numPatientDischarges SARS-1 1-1-1920 4-4-2020
+/numPatientDischarges SARS-1 1-1-1920 4-4-2020 Portugal
