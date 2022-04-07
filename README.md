@@ -5,7 +5,7 @@ A server/client project written in C/Cpp for the university course System Progra
 
 This project is an extension of the diseaseAggregator project (https://github.com/mar-kan/diseaseAggregator). The same bash script was used to create the input directories and files.
 
-It constists of 4 executables, Master and Worker, which is executed by master by forks και execl (exactly like in project diseaseAggregator), and whoServer and whoClient.
+It constists of 4 executables, Master and Worker, which are executed by master by forks και execl (exactly like in project diseaseAggregator), and whoServer and whoClient.
 
 The communications between the sockets have a fixed size, defined as 500.
 
